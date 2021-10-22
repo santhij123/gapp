@@ -1,1 +1,10 @@
+
 welcome to Devops!
+data
+
+hello
+how are you
+raja
+where is rani
+Rani is tallapaka
+
